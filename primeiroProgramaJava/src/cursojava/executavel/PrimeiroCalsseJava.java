@@ -7,6 +7,11 @@ public class PrimeiroCalsseJava {
 		
 		
 		System.out.println("Meu primeiro programa java teste");
+		
+		private String nome;
+		private String sobrenome;
+		
+		
 	}
 
 }
